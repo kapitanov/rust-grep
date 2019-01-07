@@ -1,0 +1,9 @@
+[package]
+name = "rustgrep"
+version = "0.1.0"
+authors = ["kapitanov"]
+edition = "2018"
+
+[dependencies]
+regex = "1.1.0"
+unicase = "2.2.0"
